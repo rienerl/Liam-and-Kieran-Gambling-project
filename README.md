@@ -101,7 +101,7 @@ Due to weak correlations between most variables, we projected gambling revenue w
 
 ## 🔭 Future Work
 
->We can expand on national level work to create a model with projections for regions, states within the US. We can model other variables despite weak correlations. We can compare the U.S. model with other countries with different laws and regulations to evaluate how regulation and taxation affect gambling behavior and revenue. Finally, we can analyze user data from online platforms to understand who gambles the most, when, and how much, particularly from post-legalization of sports betting.
+>We can expand on national level work to create a model with projections for regions within the US as well as states with legalized online gambling but no casinos. We can model other variables despite weak correlations. We can compare the U.S. model with other countries with different laws and regulations to evaluate how regulation and taxation affect gambling behavior and revenue. Finally, we can analyze user data from online platforms to understand who gambles the most, when, and how much, particularly from post-legalization of sports betting.
 
 ---
 
