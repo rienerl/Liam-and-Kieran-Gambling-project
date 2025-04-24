@@ -87,17 +87,17 @@ Due to weak correlations between most variables, we projected gambling revenue w
 
 ## 💡 Insights & Policy Recommendations
 
-Tax rates don’t seem to affect revenue, meaning governments can tax the gambling industry without creating a poor business environment. The size of the state doesn’t impact legalization chances, although weak negative correlation between GDP, GGR as a % of GDP indicates smaller states are more likely to have gambling play a larger role in the economy as a whole. There is a strong correlation between GGR increase year over year and GDP increase year over year (dip in both from COVID in 2020) indicates connection between industry futures and broad economic futures.
+>Tax rates don’t seem to affect revenue, meaning governments can tax the gambling industry without creating a poor business environment. The size of the state doesn’t impact legalization chances, although weak negative correlation between GDP, GGR as a % of GDP indicates smaller states are more likely to have gambling play a larger role in the economy as a whole. There is a strong correlation between GGR increase year over year and GDP increase year over year (dip in both from COVID in 2020) indicates connection between industry futures and broad economic futures.
 ---
 
 ## ⚖️ Societal Implications
 
-Public services funded by gambling raise moral questions about the source of that money. Through Legalization and as gambling becomes more accessible (especially online), may normalize gambling, especially among youth, increasing addiction risks. The tax rate not affecting revenue means industry is lucrative. It’s easy for people to become addicted, regulation is needed. Newer states can learn from early adopters like Nevada about the long-term impacts of different tax rates and regulatory models. There’s an opportunity for cross-state learning to design more sustainable, ethical policies.
+>Public services funded by gambling raise moral questions about the source of that money. Through Legalization and as gambling becomes more accessible (especially online), may normalize gambling, especially among youth, increasing addiction risks. The tax rate not affecting revenue means industry is lucrative. It’s easy for people to become addicted, regulation is needed. Newer states can learn from early adopters like Nevada about the long-term impacts of different tax rates and regulatory models. There’s an opportunity for cross-state learning to design more sustainable, ethical policies.
 ---
 
 ## 🔭 Future Work
 
-We can expand on national level work to create a model with projections for regions, states within the US. We can model other variables despite weak correlations. We can compare the U.S. model with other countries with different laws and regulations to evaluate how regulation and taxation affect gambling behavior and revenue. Finally, we can analyze user data from online platforms to understand who gambles the most, when, and how much, particularly from post-legalization of sports betting.
+>We can expand on national level work to create a model with projections for regions, states within the US. We can model other variables despite weak correlations. We can compare the U.S. model with other countries with different laws and regulations to evaluate how regulation and taxation affect gambling behavior and revenue. Finally, we can analyze user data from online platforms to understand who gambles the most, when, and how much, particularly from post-legalization of sports betting.
 
 ---
 
