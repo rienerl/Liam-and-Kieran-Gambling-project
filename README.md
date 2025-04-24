@@ -79,6 +79,8 @@ Due to weak correlations between most variables, we projected gambling revenue w
 3. **Quadratic Model**  
    `GGR = 79B − 0.00929 × GDP + 5.32 × 10⁻¹⁶ × GDP²`
 
+![image](gambleModel.jpg)
+
 
 > 🔮 The quadratic model projects **tripled national gambling revenue by 2030**, compared to 2014. Continued lack of regulation, CA & TX legalize?
 > The linear model projects modest growth, assumes 2018-23 legalization spree will fade and regulation will impede online gambling boom.
