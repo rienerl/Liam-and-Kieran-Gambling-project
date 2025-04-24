@@ -1,5 +1,7 @@
 
 # In the Black: An Exploration into Gambling Revenue, Taxes, and Economic Impact
+!(premium_photo-1698525809613-c6eb1c25bc0f.jpeg)
+
 # Liam Riener and Kieran Santos
 # Dickinson College Data Analytics
 
